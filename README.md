@@ -72,7 +72,7 @@ Tones 11-13 are about preparing for that next sprint:
 
 You can purchase a full paper-cover book here: [THE 13-DAY SPRINT METHOD](https://shop.tredition.com/booktitle/THE_13-DAY_SPRINT_METHOD/W-273-009-434)
 
-[Download the WorkBook - January 2026](./THE 13-DAY SPRINT METHOD - JANUARY 2026.pdf)
+[Download the WorkBook - January 2026](./THE-13-DAY-SPRINT-METHOD-JANUARY-2026.pdf)
 
 
 
